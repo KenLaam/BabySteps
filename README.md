@@ -3,9 +3,9 @@
 <a href="https://apps.apple.com/app/id6749650525"><img src="./AppStoreBadge.svg" height="80" /></a>
 
 <p float="left">
-  <img src="./Screenshot-1.jpg" height="400" />
-  <img src="./Screenshot-2.jpg" height="400" />
-  <img src="./Screenshot-3.jpg" height="400" />
+  <img src="./69_1.png" height="400" />
+  <img src="./69_2.png" height="400" />
+  <img src="./69_3.png" height="400" />
 </p>
 
 BabySteps is a simple and efficient tool designed for parents and caregivers who want to track their baby's milk feeding schedule and monitor their nutrition intake. Whether you're a new parent or an experienced caregiver, BabySteps helps you maintain accurate feeding records and track your baby's daily milk consumption easily and quickly.

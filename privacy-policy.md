@@ -9,7 +9,7 @@ This document outlines our policy regarding the collection, use, and disclosure 
 BabySteps is designed with privacy in mind. The app processes and stores your baby's feeding data locally on your device using Core Data. This includes:
 
 - Baby names and birth dates
-- Milk feeding records (quantities in ml from 10-400ml, feeding types - breast milk or formula, precise dates and times)
+- Milk feeding records (amounts in ml from 10-400ml, feeding types - breast milk or formula, precise dates and times)
 - Daily feeding aggregations and statistics
 - Interactive charts and visualizations
 - User preferences (default milk quantities, last used quantities per baby, app themes, quantity management settings)
